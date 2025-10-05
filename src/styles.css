@@ -1,0 +1,23 @@
+
+body {
+    font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  }
+  
+  
+  :root {
+    --bs-primary: #f1c40f; 
+  }
+  
+  
+  .fw-800 { font-weight: 800; }
+  
+ 
+  .hero {
+    min-height: 56vh;
+    background: linear-gradient(180deg, rgba(0,0,0,.55), rgba(0,0,0,.6)),
+                url("../assets/batman_entete.jpeg") center/cover no-repeat;
+  }
+  
+
+  .object-fit-cover { object-fit: cover; }
+  
